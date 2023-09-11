@@ -4,7 +4,7 @@
 
 ## Presentations
 
-- [Convert your Excel sheet into Power-Apps using AI​](./Excel%202%20Power%20App%20using%20AI/)
-- [Convertissez votre feuille Excel en applications Power Platform avec IA​](./Excel%202%20Power%20App%20using%20AI/)
+- [Convert your Excel sheet into Power-Apps using AI​](./Excel-2-PowerApp-using-AI/)
+- [Convertissez votre feuille Excel en applications Power Platform avec IA​](./Excel-2-PowerApp-using-AI/)
 
 
