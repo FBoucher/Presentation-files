@@ -4,7 +4,7 @@
 
 ## Presentations
 
-- [.NET Conf 2024 MSDEVTML/Montreal](.NET-Conf-2024-MSDEVTML/)
+- [.NET Conf 2024 MSDEVTML/Montreal](./NET-Conf-2024-MSDEVTML/)
 - [Convert your Excel sheet into Power-Apps using AI​](./Excel-2-PowerApp-using-AI/)
 - [Convertissez votre feuille Excel en applications Power Platform avec IA​](./Excel-2-PowerApp-using-AI/)
 
